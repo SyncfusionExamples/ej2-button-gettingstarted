@@ -1,6 +1,12 @@
 # Essential JS 2 Button Getting Started 
 
-The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
+A quick start JavaScript project that shows how to previw Button component. The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
+
+Refer to the following documentation to learn about the JavaScript Button component:
+https://ej2.syncfusion.com/javascript/documentation/button/es5-getting-started
+
+Check out this online example of the JavaScript Button component:
+https://ej2.syncfusion.com/demos/#/tailwind3/button/default.html
 
 ## Getting Started
 
