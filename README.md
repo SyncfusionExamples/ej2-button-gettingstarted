@@ -2,6 +2,12 @@
 
 The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
 
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (version 8.x or later)
+- npm (Node Package Manager)
+
 ## Getting Started
 
 To get started you need to clone the `ej2-buttongettingstarted` repository.
@@ -34,3 +40,16 @@ You can use the below npm script to run the web application.
 ```
 npm run start
 ```
+
+## Features
+
+This quickstart project includes:
+- Pre-configured Essential JS 2 Button component
+- TypeScript support for type-safe development
+- SystemJS module loader integration
+- Browser-sync for live reloading during development
+- Gulp-based build automation
+
+## Configuration
+
+The project uses `system.config.js` to configure module loading and map the Syncfusion EJ2 packages. All component configurations are set up in the `src/app/app.ts` file, making it easy to customize button properties and behaviors.
