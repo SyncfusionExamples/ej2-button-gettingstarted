@@ -8,20 +8,6 @@ Before you begin, ensure you have the following installed:
 - Node.js (version 8.x or later)
 - npm (Node Package Manager)
 
-## Project Structure
-
-```
-ej2-button-gettingstarted-master/
-├── src/
-│   ├── app/
-│   │   └── app.ts
-│   ├── index.html
-│   └── system.config.js
-├── package.json
-├── tsconfig.json
-└── gulpfile.js
-```
-
 ## Getting Started
 
 To get started you need to clone the `ej2-buttongettingstarted` repository.
