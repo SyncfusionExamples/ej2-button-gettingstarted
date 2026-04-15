@@ -1,36 +1,53 @@
-# Essential JS 2 Button Getting Started 
+# Essential JS 2 Button Getting Started
 
-The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
+A quickstart template for the Syncfusion Essential JS 2 Button component with pre-configured settings for building interactive applications.
+
+## Overview
+
+This repository demonstrates the Syncfusion Essential JS 2 Button component with hot-reload functionality and SystemJS module loading.
+
+## Features
+
+- **Essential JS 2 Button Component**: Pre-configured Syncfusion EJ2 button
+- **Live Reload**: Browser-sync for automatic refresh
+- **Module Loading**: SystemJS for efficient code management
+- **npm Dependencies**: Pre-configured packages
+
+## Prerequisites
+
+- Node.js 12 or higher
+- npm 6 or higher
+- Git
+- Modern web browser
 
 ## Getting Started
 
-To get started you need to clone the `ej2-buttongettingstarted` repository.
+Clone the repository:
 
-```
+```bash
 git clone https://github.com/SyncfusionSamples/ej2-button-gettingstarted.git quickstart
 cd quickstart
 ```
 
 ## Installing
 
-We can get all the Essential JS 2 components in a single npm package [`ej2`](https://www.npmjs.com/package/@syncfusion/ej2).
+The Essential JS 2 components are available in the npm package [`ej2`](https://www.npmjs.com/package/@syncfusion/ej2).
 
-We already configure the required packages in the `package.json` file.
-
-You can run the below command to install all dependent packages related to this seed project.
-
-```
+```bash
 npm install
 ```
 
 ## Running
 
-The application is configured with `browser-sync`, so it will serve the web application in your default browser.
+The application uses `browser-sync` for live reloading and `SystemJS` for module loading.
 
-We used `SystemJS` for module loading.
-
-You can use the below npm script to run the web application.
-
-```
+```bash
 npm run start
 ```
+
+The application opens automatically in your default browser at `http://localhost:3000` with live reload enabled.
+
+## Documentation
+
+- [Syncfusion Essential JS 2](https://www.syncfusion.com/documentation/essential-js-2)
+- [Button Component](https://www.syncfusion.com/documentation/essential-js-2/button/button)
